@@ -1,3 +1,4 @@
+
 function myFoo(array){
 	var lastEl;
 	for(var i = 0; i < array.lenght; i++){
@@ -6,6 +7,6 @@ function myFoo(array){
 	}
 	return lastEl;
 }
-var recult = myFoo([12,34,45,67,78]);
+var recult = myFoo([12,34,45,67,78]); 
 alert(result);
  
