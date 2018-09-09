@@ -8,3 +8,4 @@ function myFoo(array){
 }
 var recult = myFoo([12,34,45,67,78]);
 alert(result);
+ 
